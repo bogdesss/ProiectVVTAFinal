@@ -1,0 +1,8 @@
+Log in valid
+Log in invalid
+
+Search for a product.
+
+Add product to cart.
+
+Navigate to the contact page.

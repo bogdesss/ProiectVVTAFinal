@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Story","Should be able to login","FAILURE","2023-11-23T02:01:07.156468+02:00[Europe/Bucharest]","0.0","0.21"
+"Story","Should not be able to login","FAILURE","2023-11-23T02:01:07.544315+02:00[Europe/Bucharest]","0.0","0.01"
+"Story","Should navigate to contact page","FAILURE","2023-11-23T02:01:07.555311+02:00[Europe/Bucharest]","0.0","0.01"

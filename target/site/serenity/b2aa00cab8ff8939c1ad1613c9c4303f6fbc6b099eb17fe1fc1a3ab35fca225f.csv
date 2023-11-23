@@ -1,0 +1,7 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Story","User can log in with valid credentials","SUCCESS","2023-11-23T04:34:43.6320923+02:00[Europe/Bucharest]","0.0","3.82"
+"Story","Should be able to login","SUCCESS","2023-11-23T04:42:01.392278+02:00[Europe/Bucharest]","0.0","7.28"
+"Story","Should not be able to login","SUCCESS","2023-11-23T04:42:08.8112856+02:00[Europe/Bucharest]","0.0","3.17"
+"Story","Should be able to add pokemon card to wish list and verify","SUCCESS","2023-11-23T04:42:11.9922854+02:00[Europe/Bucharest]","0.0","5.93"
+"Story","Should navigate to contact page","SUCCESS","2023-11-23T04:42:17.9930952+02:00[Europe/Bucharest]","0.0","8.8"
+"Story","User can add product to cart and verify","SUCCESS","2023-11-23T04:42:26.8012475+02:00[Europe/Bucharest]","0.0","9.32"
